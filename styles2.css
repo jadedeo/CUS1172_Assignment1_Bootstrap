@@ -134,7 +134,6 @@ input[type=submit]{
 }
 
 #intro{
-  text-align: center;
   margin-right:2%;
 }
 
@@ -169,10 +168,6 @@ input[type=submit]{
 
 #removedForPrint{
   display:none;
-}
-
-#education{
-  text-align:center;
 }
 
 #webImageBox, #videoBox, #formBox{
